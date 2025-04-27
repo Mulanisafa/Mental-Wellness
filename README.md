@@ -100,4 +100,4 @@ Real-time Emotional Support Chatbot: Integrate a mental health AI chatbot that w
 Emotion Recognition from Video or Audio: Use emotion recognition AI models to analyze users’ facial expressions or voice tone during video/audio assessments to determine emotional states.
 
 Demo
-https://mental-wellness-iota.vercel.app/
+https://mental-wellness-one.vercel.app/
